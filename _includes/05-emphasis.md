@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_What i know_
+**C Programming** 🎉
+**La Tex** 💖
+
+_And i started to learn **Web Designing** 🥰
